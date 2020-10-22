@@ -1,2 +1,2 @@
-# deep_learning_hw
+# Deep learning nagyházi README
 Deep learning nagyházi leadáshoz
