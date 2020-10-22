@@ -1,2 +1,2 @@
-# Deep learning nagyházi README
-Deep learning nagyházi leadáshoz
+# Deep learning project README
+Deep learning project
